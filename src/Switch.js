@@ -1,4 +1,4 @@
-export function renderSwitch(param) {
+function renderSwitch(param) {
     switch (param) {
         case 'Clear':
         case 'Sunny':
@@ -16,4 +16,4 @@ export function renderSwitch(param) {
     }
 }
 
-// export default renderSwitch;
+export default renderSwitch;

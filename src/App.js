@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { renderSwitch } from './Switch';
-import { dateBuilder } from './DateBuilder';
+import renderSwitch from './Switch';
+import dateBuilder from './DateBuilder';
 
 function App() {
   const [query, setQuery] = useState('');
@@ -8,7 +8,6 @@ function App() {
 
   const search = evt => {
     if (evt.key === "Enter") {
-      // fetch(`${api.base}weather?q=${query}&units=metric&APPID=${api.key}`)
       fetch(`${process.env.REACT_APP_WEATHER_API_URL}weather?q=${query}&units=metric&APPID=${process.env.REACT_APP_WEATHER_API_KEY}`)
         .then(res => res.json())
         .then(result => {
