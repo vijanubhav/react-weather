@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vijanubhav/react-weather.git/static/css/main.cca85e26.chunk.css",
+    "main.js": "/vijanubhav/react-weather.git/static/js/main.f6482bbc.chunk.js",
+    "main.js.map": "/vijanubhav/react-weather.git/static/js/main.f6482bbc.chunk.js.map",
+    "runtime-main.js": "/vijanubhav/react-weather.git/static/js/runtime-main.d71ee753.js",
+    "runtime-main.js.map": "/vijanubhav/react-weather.git/static/js/runtime-main.d71ee753.js.map",
+    "static/js/2.4c31aae7.chunk.js": "/vijanubhav/react-weather.git/static/js/2.4c31aae7.chunk.js",
+    "static/js/2.4c31aae7.chunk.js.map": "/vijanubhav/react-weather.git/static/js/2.4c31aae7.chunk.js.map",
+    "static/js/3.5f5b1d01.chunk.js": "/vijanubhav/react-weather.git/static/js/3.5f5b1d01.chunk.js",
+    "static/js/3.5f5b1d01.chunk.js.map": "/vijanubhav/react-weather.git/static/js/3.5f5b1d01.chunk.js.map",
+    "index.html": "/vijanubhav/react-weather.git/index.html",
+    "static/css/main.cca85e26.chunk.css.map": "/vijanubhav/react-weather.git/static/css/main.cca85e26.chunk.css.map",
+    "static/js/2.4c31aae7.chunk.js.LICENSE.txt": "/vijanubhav/react-weather.git/static/js/2.4c31aae7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/vijanubhav/react-weather.git/static/media/warm-bg.a7f83012.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d71ee753.js",
+    "static/js/2.4c31aae7.chunk.js",
+    "static/css/main.cca85e26.chunk.css",
+    "static/js/main.f6482bbc.chunk.js"
+  ]
+}
